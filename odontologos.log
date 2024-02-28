@@ -1,0 +1,85 @@
+[2024-02-27 21:42:12] [ INFO ] [Odontologo:20] Estamos guardando un Odontologo llamado Ileana en la base
+[2024-02-27 21:42:12] [ INFO ] [Odontologo:48] Cuyo ID confirmado por la base es 1
+[2024-02-27 21:42:12] [ INFO ] [Odontologo:20] Estamos guardando un Odontologo llamado Alexia en la base
+[2024-02-27 21:42:12] [ INFO ] [Odontologo:48] Cuyo ID confirmado por la base es 2
+[2024-02-27 21:42:12] [ INFO ] [Odontologo:20] Estamos guardando un Odontologo llamado Gino en la base
+[2024-02-27 21:42:12] [ INFO ] [Odontologo:48] Cuyo ID confirmado por la base es 3
+[2024-02-27 21:42:12] [ INFO ] [Odontologo:55] Vamos a consultar todos los Odontologos en la BD
+[2024-02-27 21:43:20] [ INFO ] [Odontologo:20] Estamos guardando un Odontologo llamado Ileana en la base
+[2024-02-27 21:43:20] [ INFO ] [Odontologo:48] Cuyo ID confirmado por la base es 1
+[2024-02-27 21:43:20] [ INFO ] [Odontologo:20] Estamos guardando un Odontologo llamado Alexia en la base
+[2024-02-27 21:43:20] [ INFO ] [Odontologo:48] Cuyo ID confirmado por la base es 2
+[2024-02-27 21:43:20] [ INFO ] [Odontologo:20] Estamos guardando un Odontologo llamado Gino en la base
+[2024-02-27 21:43:20] [ INFO ] [Odontologo:48] Cuyo ID confirmado por la base es 3
+[2024-02-27 21:43:20] [ INFO ] [Odontologo:55] Vamos a consultar todos los Odontologos en la BD
+[2024-02-27 21:44:43] [ INFO ] [Odontologo:20] Estamos guardando un Odontologo llamado Ileana en la base
+[2024-02-27 21:44:43] [ INFO ] [Odontologo:48] Cuyo ID confirmado por la base es 1
+[2024-02-27 21:44:43] [ INFO ] [Odontologo:20] Estamos guardando un Odontologo llamado Alexia en la base
+[2024-02-27 21:44:43] [ INFO ] [Odontologo:48] Cuyo ID confirmado por la base es 2
+[2024-02-27 21:44:43] [ INFO ] [Odontologo:20] Estamos guardando un Odontologo llamado Gino en la base
+[2024-02-27 21:44:43] [ INFO ] [Odontologo:48] Cuyo ID confirmado por la base es 3
+[2024-02-27 21:44:43] [ INFO ] [Odontologo:55] Vamos a consultar todos los Odontologos en la BD
+[2024-02-27 21:50:24] [ INFO ] [OdontologoDAOMemoria:28] El odontólogo: ----------------------- Los datos del Odontologo son: --------------
+id= 1, Numero de Matricula= 12345, Nombre= 'Ileana', Apellido= 'Malamud'
+se registró en memoria
+[2024-02-27 21:50:24] [ INFO ] [OdontologoDAOMemoria:28] El odontólogo: ----------------------- Los datos del Odontologo son: --------------
+id= 2, Numero de Matricula= 21245, Nombre= 'Alexia', Apellido= 'Gozuk'
+se registró en memoria
+[2024-02-27 21:50:24] [ INFO ] [OdontologoDAOMemoria:28] El odontólogo: ----------------------- Los datos del Odontologo son: --------------
+id= 3, Numero de Matricula= 32345, Nombre= 'Gino', Apellido= 'Tubaro'
+se registró en memoria
+[2024-02-27 21:50:24] [ INFO ] [OdontologoDAOMemoria:35] Los odontólogos encontrados EN MEMORIA son: [----------------------- Los datos del Odontologo son: --------------
+id= 1, Numero de Matricula= 12345, Nombre= 'Ileana', Apellido= 'Malamud'
+, ----------------------- Los datos del Odontologo son: --------------
+id= 2, Numero de Matricula= 21245, Nombre= 'Alexia', Apellido= 'Gozuk'
+, ----------------------- Los datos del Odontologo son: --------------
+id= 3, Numero de Matricula= 32345, Nombre= 'Gino', Apellido= 'Tubaro'
+]
+[2024-02-27 21:52:59] [ INFO ] [OdontologoDAOMemoria:28] El odontólogo: Ileanase registró en memoria
+[2024-02-27 21:52:59] [ INFO ] [OdontologoDAOMemoria:28] El odontólogo: Alexiase registró en memoria
+[2024-02-27 21:52:59] [ INFO ] [OdontologoDAOMemoria:28] El odontólogo: Ginose registró en memoria
+[2024-02-27 21:52:59] [ INFO ] [OdontologoDAOMemoria:35] Los odontólogos encontrados EN MEMORIA son: '
+' [----------------------- Los datos del Odontologo son: --------------
+id= 1, Numero de Matricula= 12345, Nombre= 'Ileana', Apellido= 'Malamud'
+, ----------------------- Los datos del Odontologo son: --------------
+id= 2, Numero de Matricula= 21245, Nombre= 'Alexia', Apellido= 'Gozuk'
+, ----------------------- Los datos del Odontologo son: --------------
+id= 3, Numero de Matricula= 32345, Nombre= 'Gino', Apellido= 'Tubaro'
+]
+[2024-02-27 21:53:52] [ INFO ] [OdontologoDAOMemoria:28] El odontólogo: Ileana se registró en memoria
+[2024-02-27 21:53:52] [ INFO ] [OdontologoDAOMemoria:28] El odontólogo: Alexia se registró en memoria
+[2024-02-27 21:53:52] [ INFO ] [OdontologoDAOMemoria:28] El odontólogo: Gino se registró en memoria
+[2024-02-27 21:53:52] [ INFO ] [OdontologoDAOMemoria:35] Los odontólogos encontrados EN MEMORIA son: '
+' [----------------------- Los datos del Odontologo son: --------------
+id= 1, Numero de Matricula= 12345, Nombre= 'Ileana', Apellido= 'Malamud'
+, ----------------------- Los datos del Odontologo son: --------------
+id= 2, Numero de Matricula= 21245, Nombre= 'Alexia', Apellido= 'Gozuk'
+, ----------------------- Los datos del Odontologo son: --------------
+id= 3, Numero de Matricula= 32345, Nombre= 'Gino', Apellido= 'Tubaro'
+]
+[2024-02-27 21:54:41] [ INFO ] [OdontologoDAOMemoria:28] El odontólogo: Ileana se registró en memoria
+[2024-02-27 21:54:59] [ INFO ] [OdontologoDAOMemoria:28] El odontólogo: Ileana se registró en memoria
+[2024-02-27 21:54:59] [ INFO ] [OdontologoDAOMemoria:28] El odontólogo: Alexia se registró en memoria
+[2024-02-27 21:54:59] [ INFO ] [OdontologoDAOMemoria:28] El odontólogo: Gino se registró en memoria
+[2024-02-27 21:54:59] [ INFO ] [OdontologoDAOMemoria:35] Los odontólogos encontrados EN MEMORIA son: '
+' [----------------------- Los datos del Odontologo son: --------------
+id= 1, Numero de Matricula= 12345, Nombre= 'Ileana', Apellido= 'Malamud'
+, ----------------------- Los datos del Odontologo son: --------------
+id= 2, Numero de Matricula= 21245, Nombre= 'Alexia', Apellido= 'Tubaro'
+, ----------------------- Los datos del Odontologo son: --------------
+id= 3, Numero de Matricula= 32345, Nombre= 'Gino', Apellido= 'Gozuk'
+]
+[2024-02-27 21:56:40] [ INFO ] [Odontologo:20] Estamos guardando un Odontologo llamado Ileana en la base
+[2024-02-27 21:56:40] [ INFO ] [Odontologo:48] Cuyo ID confirmado por la base es 1
+[2024-02-27 21:56:40] [ INFO ] [Odontologo:20] Estamos guardando un Odontologo llamado Alexia en la base
+[2024-02-27 21:56:40] [ INFO ] [Odontologo:48] Cuyo ID confirmado por la base es 2
+[2024-02-27 21:56:40] [ INFO ] [Odontologo:20] Estamos guardando un Odontologo llamado Gino en la base
+[2024-02-27 21:56:40] [ INFO ] [Odontologo:48] Cuyo ID confirmado por la base es 3
+[2024-02-27 21:56:40] [ INFO ] [Odontologo:55] Vamos a consultar todos los Odontologos en la BD
+[2024-02-27 22:11:55] [ INFO ] [Odontologo:20] Estamos guardando un Odontologo llamado Ileana en la base
+[2024-02-27 22:11:55] [ INFO ] [Odontologo:48] Cuyo ID confirmado por la base es 1
+[2024-02-27 22:11:55] [ INFO ] [Odontologo:20] Estamos guardando un Odontologo llamado Alexia en la base
+[2024-02-27 22:11:55] [ INFO ] [Odontologo:48] Cuyo ID confirmado por la base es 2
+[2024-02-27 22:11:55] [ INFO ] [Odontologo:20] Estamos guardando un Odontologo llamado Gino en la base
+[2024-02-27 22:11:55] [ INFO ] [Odontologo:48] Cuyo ID confirmado por la base es 3
+[2024-02-27 22:11:55] [ INFO ] [Odontologo:55] Vamos a consultar todos los Odontologos en la BD
